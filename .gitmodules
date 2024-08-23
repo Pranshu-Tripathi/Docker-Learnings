@@ -1,0 +1,3 @@
+[submodule "react-frontend-app/web-app"]
+	path = react-frontend-app/web-app
+	url = https://github.com/Pranshu-Tripathi/Docker-React-App.git
