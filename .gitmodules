@@ -4,3 +4,6 @@
 [submodule "complex-app/fib-app"]
 	path = complex-app/fib-app
 	url = https://github.com/Pranshu-Tripathi/Multicontainer-Fibonacci-Web-App.git
+[submodule "complex-app/fib-app-k8s"]
+	path = complex-app/fib-app-k8s
+	url = https://github.com/Pranshu-Tripathi/Fibonacci-Web-App-Kubernetes.git
